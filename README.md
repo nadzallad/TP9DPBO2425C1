@@ -25,5 +25,11 @@ Alur ini berlangsung setiap kali melakukan aksi apa pun: klik tab, klik tambah, 
 //Dokumentasi
 
 1.  Dokumentasi aksi CRUD tabel Pembalap
+
+https://github.com/user-attachments/assets/c3f38ea8-4e82-48a3-b02a-8ce266b51055
+
+
 2.  Dokumentasi aksi CRUD table Sirkuit
-   
+
+https://github.com/user-attachments/assets/9a6ce630-c127-481f-8274-e5bb4a3e53f8
+
